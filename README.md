@@ -7,5 +7,3 @@ Homepage: [Advent of Code](https://adventofcode.com/)
 ---
 
 This repository contains my solutions (in C++/Python) to Advent of Code 2022.
-
-![aoc day 2 result](aoc_day_2.png)
