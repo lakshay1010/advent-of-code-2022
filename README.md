@@ -7,3 +7,8 @@ Homepage: [Advent of Code](https://adventofcode.com/)
 ---
 
 This repository contains my solutions (in C++/Python) to Advent of Code 2022.
+
+---
+
+Trying to learn modern C++ features, referring to:
+https://github.com/HappyCerberus/moderncpp-aoc-2022
